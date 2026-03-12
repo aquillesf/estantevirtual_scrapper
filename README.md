@@ -8,6 +8,7 @@ O script extrai os dados diretamente do estado interno da pagina (window.__INITI
 evitando a necessidade de parsear HTML complexo.
 
 Para conseguir analisar o HTML das páginas, usei cURL. Ferramenta na qual escrevi a documentação na Wikipédia.
+
 Link: https://pt.wikipedia.org/wiki/CURL
 
 __NECESSARIO TER PARA EXECUTAR O CODIGO__
