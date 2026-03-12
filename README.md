@@ -82,8 +82,9 @@ main(max_pages)
     disponivel, itera sobre as demais paginas respeitando o limite definido,
     agrega todos os sebos coletados e chama save_json ao final.
 
-
+``` 
 projeto/
 ├── estante_virtual_scraper.py     script principal
 └── files/                         criada automaticamente
     └── EV_DD_MES_AAAA.json        saida com data
+    
