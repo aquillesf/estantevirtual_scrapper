@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "1000063",
+    "name": "Sebo Maria Vida",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo maria vida?sellerId=1000063",
+    "location": {
+      "city": "Palhoça",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-11-18",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000091",
+    "name": "IKO",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iko?sellerId=1000091",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-02-10",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000102",
+    "name": "Liz Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/liz livros?sellerId=1000102",
+    "location": {
+      "city": "Balneário Camboriú",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-12-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000123",
+    "name": "Sebo Casa Sol",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo casa sol?sellerId=1000123",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2008-04-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000132",
+    "name": "Acervo KR",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/acervo kr?sellerId=1000132",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2012-12-04",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000143",
+    "name": "Edineide",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/edineide?sellerId=1000143",
+    "location": {
+      "city": "Guarulhos",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2017-12-21",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000210",
+    "name": "Shyrlana",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/shyrlana?sellerId=1000210",
+    "location": {
+      "city": "Cruz Alta",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2013-10-09",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000214",
+    "name": "Sebo Tatuapé Livraria",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo tatuape livraria?sellerId=1000214",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-08-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000242",
+    "name": "Neveland",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/neveland?sellerId=1000242",
+    "location": {
+      "city": "Ribeirão Pires",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2011-06-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000243",
+    "name": "Iago Gonçalves Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iago goncalves livros?sellerId=1000243",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-24",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000265",
+    "name": "Rossinaldo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/rossinaldo?sellerId=1000265",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2009-07-11",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000364",
+    "name": "Gilberto Edson",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/gilberto edson?sellerId=1000364",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-06-08",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000382",
+    "name": "Inspiração Nordestina",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/inspiracao nordestina?sellerId=1000382",
+    "location": {
+      "city": "Santa Cruz da Baixa Verde",
+      "state": "PE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-11-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000408",
+    "name": "O Buho Vermelho",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/o buho vermelho?sellerId=1000408",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-04-18",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000424",
+    "name": "Lilian Pavan",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/lilian pavan?sellerId=1000424",
+    "location": {
+      "city": "Ibitinga",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-05-30",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000460",
+    "name": "Ez Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ez books?sellerId=1000460",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000464",
+    "name": "Moisés Desapego",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/moises desapego?sellerId=1000464",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2024-01-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000466",
+    "name": "Spike Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/spike books?sellerId=1000466",
+    "location": {
+      "city": "São Gonçalo",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000474",
+    "name": "MZ Acervo Pessoal",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mz acervo pessoal?sellerId=1000474",
+    "location": {
+      "city": "Rio Claro",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2019-02-25",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000525",
+    "name": "Recanto das Letras",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/recanto das letras?sellerId=1000525",
+    "location": {
+      "city": "Duque de Caxias",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2021-05-06",
+    "rating": {
+      "average": 4,
+      "percentRecommended": 0.75
+    }
+  },
+  {
+    "id": "1000531",
+    "name": "Sebo Arte Escrita",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo arte escrita?sellerId=1000531",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-06-10",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001616",
+    "name": "Livro Lindo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livro lindo?sellerId=1001616",
+    "location": {
+      "city": "Juiz de Fora",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-01-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001659",
+    "name": "Livros do Leono",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livros do leono?sellerId=1001659",
+    "location": {
+      "city": "Vitória",
+      "state": "ES"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-05-11",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001669",
+    "name": "Mari no Bosque dos Cem Acres",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mari no bosque dos cem acres?sellerId=1001669",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-06",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001707",
+    "name": "Design e Arquitetura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/design e arquitetura?sellerId=1001707",
+    "location": {
+      "city": "Curitiba",
+      "state": "PR"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001829",
+    "name": "Ana Scucato Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ana scucato livros?sellerId=1001829",
+    "location": {
+      "city": "Ouro Preto",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001925",
+    "name": "Sebo Renatróvisk Tatuapé",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo renatrovisk tatuape?sellerId=1001925",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-04-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001942",
+    "name": "Vitorio Koch",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/vitorio koch?sellerId=1001942",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001992",
+    "name": "Ellivros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ellivros?sellerId=1001992",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-03-22",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001996",
+    "name": "Nova Cultura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/nova cultura?sellerId=1001996",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-10-01",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000063",
+    "name": "Sebo Maria Vida",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo maria vida?sellerId=1000063",
+    "location": {
+      "city": "Palhoça",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-11-18",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000091",
+    "name": "IKO",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iko?sellerId=1000091",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-02-10",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000102",
+    "name": "Liz Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/liz livros?sellerId=1000102",
+    "location": {
+      "city": "Balneário Camboriú",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-12-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000123",
+    "name": "Sebo Casa Sol",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo casa sol?sellerId=1000123",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2008-04-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000132",
+    "name": "Acervo KR",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/acervo kr?sellerId=1000132",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2012-12-04",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000143",
+    "name": "Edineide",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/edineide?sellerId=1000143",
+    "location": {
+      "city": "Guarulhos",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2017-12-21",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000210",
+    "name": "Shyrlana",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/shyrlana?sellerId=1000210",
+    "location": {
+      "city": "Cruz Alta",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2013-10-09",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000214",
+    "name": "Sebo Tatuapé Livraria",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo tatuape livraria?sellerId=1000214",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-08-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000242",
+    "name": "Neveland",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/neveland?sellerId=1000242",
+    "location": {
+      "city": "Ribeirão Pires",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2011-06-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000243",
+    "name": "Iago Gonçalves Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iago goncalves livros?sellerId=1000243",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-24",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000265",
+    "name": "Rossinaldo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/rossinaldo?sellerId=1000265",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2009-07-11",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000364",
+    "name": "Gilberto Edson",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/gilberto edson?sellerId=1000364",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-06-08",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000382",
+    "name": "Inspiração Nordestina",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/inspiracao nordestina?sellerId=1000382",
+    "location": {
+      "city": "Santa Cruz da Baixa Verde",
+      "state": "PE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-11-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000408",
+    "name": "O Buho Vermelho",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/o buho vermelho?sellerId=1000408",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-04-18",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000424",
+    "name": "Lilian Pavan",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/lilian pavan?sellerId=1000424",
+    "location": {
+      "city": "Ibitinga",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-05-30",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000460",
+    "name": "Ez Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ez books?sellerId=1000460",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000464",
+    "name": "Moisés Desapego",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/moises desapego?sellerId=1000464",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2024-01-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000466",
+    "name": "Spike Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/spike books?sellerId=1000466",
+    "location": {
+      "city": "São Gonçalo",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000474",
+    "name": "MZ Acervo Pessoal",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mz acervo pessoal?sellerId=1000474",
+    "location": {
+      "city": "Rio Claro",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2019-02-25",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000525",
+    "name": "Recanto das Letras",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/recanto das letras?sellerId=1000525",
+    "location": {
+      "city": "Duque de Caxias",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2021-05-06",
+    "rating": {
+      "average": 4,
+      "percentRecommended": 0.75
+    }
+  },
+  {
+    "id": "1000531",
+    "name": "Sebo Arte Escrita",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo arte escrita?sellerId=1000531",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-06-10",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001616",
+    "name": "Livro Lindo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livro lindo?sellerId=1001616",
+    "location": {
+      "city": "Juiz de Fora",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-01-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001659",
+    "name": "Livros do Leono",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livros do leono?sellerId=1001659",
+    "location": {
+      "city": "Vitória",
+      "state": "ES"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-05-11",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001669",
+    "name": "Mari no Bosque dos Cem Acres",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mari no bosque dos cem acres?sellerId=1001669",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-06",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001707",
+    "name": "Design e Arquitetura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/design e arquitetura?sellerId=1001707",
+    "location": {
+      "city": "Curitiba",
+      "state": "PR"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001829",
+    "name": "Ana Scucato Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ana scucato livros?sellerId=1001829",
+    "location": {
+      "city": "Ouro Preto",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001925",
+    "name": "Sebo Renatróvisk Tatuapé",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo renatrovisk tatuape?sellerId=1001925",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-04-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001942",
+    "name": "Vitorio Koch",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/vitorio koch?sellerId=1001942",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001992",
+    "name": "Ellivros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ellivros?sellerId=1001992",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-03-22",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001996",
+    "name": "Nova Cultura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/nova cultura?sellerId=1001996",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-10-01",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000063",
+    "name": "Sebo Maria Vida",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo maria vida?sellerId=1000063",
+    "location": {
+      "city": "Palhoça",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-11-18",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000091",
+    "name": "IKO",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iko?sellerId=1000091",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-02-10",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000102",
+    "name": "Liz Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/liz livros?sellerId=1000102",
+    "location": {
+      "city": "Balneário Camboriú",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-12-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000123",
+    "name": "Sebo Casa Sol",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo casa sol?sellerId=1000123",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2008-04-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000132",
+    "name": "Acervo KR",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/acervo kr?sellerId=1000132",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2012-12-04",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000143",
+    "name": "Edineide",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/edineide?sellerId=1000143",
+    "location": {
+      "city": "Guarulhos",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2017-12-21",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000210",
+    "name": "Shyrlana",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/shyrlana?sellerId=1000210",
+    "location": {
+      "city": "Cruz Alta",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2013-10-09",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000214",
+    "name": "Sebo Tatuapé Livraria",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo tatuape livraria?sellerId=1000214",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-08-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000242",
+    "name": "Neveland",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/neveland?sellerId=1000242",
+    "location": {
+      "city": "Ribeirão Pires",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2011-06-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000243",
+    "name": "Iago Gonçalves Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iago goncalves livros?sellerId=1000243",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-24",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000265",
+    "name": "Rossinaldo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/rossinaldo?sellerId=1000265",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2009-07-11",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000364",
+    "name": "Gilberto Edson",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/gilberto edson?sellerId=1000364",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-06-08",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000382",
+    "name": "Inspiração Nordestina",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/inspiracao nordestina?sellerId=1000382",
+    "location": {
+      "city": "Santa Cruz da Baixa Verde",
+      "state": "PE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-11-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000408",
+    "name": "O Buho Vermelho",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/o buho vermelho?sellerId=1000408",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-04-18",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000424",
+    "name": "Lilian Pavan",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/lilian pavan?sellerId=1000424",
+    "location": {
+      "city": "Ibitinga",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-05-30",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000460",
+    "name": "Ez Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ez books?sellerId=1000460",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000464",
+    "name": "Moisés Desapego",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/moises desapego?sellerId=1000464",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2024-01-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000466",
+    "name": "Spike Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/spike books?sellerId=1000466",
+    "location": {
+      "city": "São Gonçalo",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000474",
+    "name": "MZ Acervo Pessoal",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mz acervo pessoal?sellerId=1000474",
+    "location": {
+      "city": "Rio Claro",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2019-02-25",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000525",
+    "name": "Recanto das Letras",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/recanto das letras?sellerId=1000525",
+    "location": {
+      "city": "Duque de Caxias",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2021-05-06",
+    "rating": {
+      "average": 4,
+      "percentRecommended": 0.75
+    }
+  },
+  {
+    "id": "1000531",
+    "name": "Sebo Arte Escrita",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo arte escrita?sellerId=1000531",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-06-10",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001616",
+    "name": "Livro Lindo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livro lindo?sellerId=1001616",
+    "location": {
+      "city": "Juiz de Fora",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-01-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001659",
+    "name": "Livros do Leono",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livros do leono?sellerId=1001659",
+    "location": {
+      "city": "Vitória",
+      "state": "ES"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-05-11",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001669",
+    "name": "Mari no Bosque dos Cem Acres",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mari no bosque dos cem acres?sellerId=1001669",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-06",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001707",
+    "name": "Design e Arquitetura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/design e arquitetura?sellerId=1001707",
+    "location": {
+      "city": "Curitiba",
+      "state": "PR"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001829",
+    "name": "Ana Scucato Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ana scucato livros?sellerId=1001829",
+    "location": {
+      "city": "Ouro Preto",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001925",
+    "name": "Sebo Renatróvisk Tatuapé",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo renatrovisk tatuape?sellerId=1001925",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-04-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001942",
+    "name": "Vitorio Koch",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/vitorio koch?sellerId=1001942",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001992",
+    "name": "Ellivros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ellivros?sellerId=1001992",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-03-22",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001996",
+    "name": "Nova Cultura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/nova cultura?sellerId=1001996",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-10-01",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000063",
+    "name": "Sebo Maria Vida",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo maria vida?sellerId=1000063",
+    "location": {
+      "city": "Palhoça",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-11-18",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000091",
+    "name": "IKO",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iko?sellerId=1000091",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-02-10",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000102",
+    "name": "Liz Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/liz livros?sellerId=1000102",
+    "location": {
+      "city": "Balneário Camboriú",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-12-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000123",
+    "name": "Sebo Casa Sol",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo casa sol?sellerId=1000123",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2008-04-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000132",
+    "name": "Acervo KR",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/acervo kr?sellerId=1000132",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2012-12-04",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000143",
+    "name": "Edineide",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/edineide?sellerId=1000143",
+    "location": {
+      "city": "Guarulhos",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2017-12-21",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000210",
+    "name": "Shyrlana",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/shyrlana?sellerId=1000210",
+    "location": {
+      "city": "Cruz Alta",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2013-10-09",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000214",
+    "name": "Sebo Tatuapé Livraria",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo tatuape livraria?sellerId=1000214",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-08-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000242",
+    "name": "Neveland",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/neveland?sellerId=1000242",
+    "location": {
+      "city": "Ribeirão Pires",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2011-06-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000243",
+    "name": "Iago Gonçalves Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iago goncalves livros?sellerId=1000243",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-24",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000265",
+    "name": "Rossinaldo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/rossinaldo?sellerId=1000265",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2009-07-11",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000364",
+    "name": "Gilberto Edson",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/gilberto edson?sellerId=1000364",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-06-08",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000382",
+    "name": "Inspiração Nordestina",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/inspiracao nordestina?sellerId=1000382",
+    "location": {
+      "city": "Santa Cruz da Baixa Verde",
+      "state": "PE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-11-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000408",
+    "name": "O Buho Vermelho",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/o buho vermelho?sellerId=1000408",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-04-18",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000424",
+    "name": "Lilian Pavan",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/lilian pavan?sellerId=1000424",
+    "location": {
+      "city": "Ibitinga",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-05-30",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000460",
+    "name": "Ez Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ez books?sellerId=1000460",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000464",
+    "name": "Moisés Desapego",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/moises desapego?sellerId=1000464",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2024-01-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000466",
+    "name": "Spike Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/spike books?sellerId=1000466",
+    "location": {
+      "city": "São Gonçalo",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000474",
+    "name": "MZ Acervo Pessoal",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mz acervo pessoal?sellerId=1000474",
+    "location": {
+      "city": "Rio Claro",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2019-02-25",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000525",
+    "name": "Recanto das Letras",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/recanto das letras?sellerId=1000525",
+    "location": {
+      "city": "Duque de Caxias",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2021-05-06",
+    "rating": {
+      "average": 4,
+      "percentRecommended": 0.75
+    }
+  },
+  {
+    "id": "1000531",
+    "name": "Sebo Arte Escrita",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo arte escrita?sellerId=1000531",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-06-10",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001616",
+    "name": "Livro Lindo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livro lindo?sellerId=1001616",
+    "location": {
+      "city": "Juiz de Fora",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-01-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001659",
+    "name": "Livros do Leono",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livros do leono?sellerId=1001659",
+    "location": {
+      "city": "Vitória",
+      "state": "ES"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-05-11",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001669",
+    "name": "Mari no Bosque dos Cem Acres",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mari no bosque dos cem acres?sellerId=1001669",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-06",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001707",
+    "name": "Design e Arquitetura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/design e arquitetura?sellerId=1001707",
+    "location": {
+      "city": "Curitiba",
+      "state": "PR"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001829",
+    "name": "Ana Scucato Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ana scucato livros?sellerId=1001829",
+    "location": {
+      "city": "Ouro Preto",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001925",
+    "name": "Sebo Renatróvisk Tatuapé",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo renatrovisk tatuape?sellerId=1001925",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-04-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001942",
+    "name": "Vitorio Koch",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/vitorio koch?sellerId=1001942",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001992",
+    "name": "Ellivros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ellivros?sellerId=1001992",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-03-22",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001996",
+    "name": "Nova Cultura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/nova cultura?sellerId=1001996",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-10-01",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000063",
+    "name": "Sebo Maria Vida",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo maria vida?sellerId=1000063",
+    "location": {
+      "city": "Palhoça",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-11-18",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000091",
+    "name": "IKO",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iko?sellerId=1000091",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2014-02-10",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000102",
+    "name": "Liz Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/liz livros?sellerId=1000102",
+    "location": {
+      "city": "Balneário Camboriú",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-12-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000123",
+    "name": "Sebo Casa Sol",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo casa sol?sellerId=1000123",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2008-04-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000132",
+    "name": "Acervo KR",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/acervo kr?sellerId=1000132",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2012-12-04",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000143",
+    "name": "Edineide",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/edineide?sellerId=1000143",
+    "location": {
+      "city": "Guarulhos",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2017-12-21",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000210",
+    "name": "Shyrlana",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/shyrlana?sellerId=1000210",
+    "location": {
+      "city": "Cruz Alta",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2013-10-09",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000214",
+    "name": "Sebo Tatuapé Livraria",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo tatuape livraria?sellerId=1000214",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-08-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000242",
+    "name": "Neveland",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/neveland?sellerId=1000242",
+    "location": {
+      "city": "Ribeirão Pires",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2011-06-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000243",
+    "name": "Iago Gonçalves Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/iago goncalves livros?sellerId=1000243",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-24",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000265",
+    "name": "Rossinaldo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/rossinaldo?sellerId=1000265",
+    "location": {
+      "city": "Salvador",
+      "state": "BA"
+    },
+    "freeShipping": true,
+    "memberSince": "2009-07-11",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000364",
+    "name": "Gilberto Edson",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/gilberto edson?sellerId=1000364",
+    "location": {
+      "city": "Fortaleza",
+      "state": "CE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-06-08",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000382",
+    "name": "Inspiração Nordestina",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/inspiracao nordestina?sellerId=1000382",
+    "location": {
+      "city": "Santa Cruz da Baixa Verde",
+      "state": "PE"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-11-17",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1000408",
+    "name": "O Buho Vermelho",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/o buho vermelho?sellerId=1000408",
+    "location": {
+      "city": "Florianópolis",
+      "state": "SC"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-04-18",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000424",
+    "name": "Lilian Pavan",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/lilian pavan?sellerId=1000424",
+    "location": {
+      "city": "Ibitinga",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2007-05-30",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000460",
+    "name": "Ez Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ez books?sellerId=1000460",
+    "location": {
+      "city": "Belo Horizonte",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000464",
+    "name": "Moisés Desapego",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/moises desapego?sellerId=1000464",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2024-01-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000466",
+    "name": "Spike Books",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/spike books?sellerId=1000466",
+    "location": {
+      "city": "São Gonçalo",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-03-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000474",
+    "name": "MZ Acervo Pessoal",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mz acervo pessoal?sellerId=1000474",
+    "location": {
+      "city": "Rio Claro",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2019-02-25",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1000525",
+    "name": "Recanto das Letras",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/recanto das letras?sellerId=1000525",
+    "location": {
+      "city": "Duque de Caxias",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2021-05-06",
+    "rating": {
+      "average": 4,
+      "percentRecommended": 0.75
+    }
+  },
+  {
+    "id": "1000531",
+    "name": "Sebo Arte Escrita",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo arte escrita?sellerId=1000531",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-06-10",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001616",
+    "name": "Livro Lindo",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livro lindo?sellerId=1001616",
+    "location": {
+      "city": "Juiz de Fora",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2010-01-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001659",
+    "name": "Livros do Leono",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/livros do leono?sellerId=1001659",
+    "location": {
+      "city": "Vitória",
+      "state": "ES"
+    },
+    "freeShipping": true,
+    "memberSince": "2006-05-11",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001669",
+    "name": "Mari no Bosque dos Cem Acres",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/mari no bosque dos cem acres?sellerId=1001669",
+    "location": {
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-06",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001707",
+    "name": "Design e Arquitetura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/design e arquitetura?sellerId=1001707",
+    "location": {
+      "city": "Curitiba",
+      "state": "PR"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-16",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001829",
+    "name": "Ana Scucato Livros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ana scucato livros?sellerId=1001829",
+    "location": {
+      "city": "Ouro Preto",
+      "state": "MG"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-09-12",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001925",
+    "name": "Sebo Renatróvisk Tatuapé",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/sebo renatrovisk tatuape?sellerId=1001925",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-04-24",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  },
+  {
+    "id": "1001942",
+    "name": "Vitorio Koch",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/vitorio koch?sellerId=1001942",
+    "location": {
+      "city": "Porto Alegre",
+      "state": "RS"
+    },
+    "freeShipping": true,
+    "memberSince": "2023-11-07",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001992",
+    "name": "Ellivros",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/ellivros?sellerId=1001992",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2016-03-22",
+    "rating": {
+      "average": 0,
+      "percentRecommended": 0
+    }
+  },
+  {
+    "id": "1001996",
+    "name": "Nova Cultura",
+    "link": "https://www.estantevirtual.com.br/sebos-e-livreiros/nova cultura?sellerId=1001996",
+    "location": {
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    "freeShipping": true,
+    "memberSince": "2018-10-01",
+    "rating": {
+      "average": 5,
+      "percentRecommended": 1
+    }
+  }
+]
