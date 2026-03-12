@@ -7,9 +7,7 @@ coletados em um arquivo JSON dentro da pasta "files".
 O script extrai os dados diretamente do estado interno da pagina (window.__INITIAL_STATE__),
 evitando a necessidade de parsear HTML complexo.
 
-============================================================================
 NECESSARIO TER PARA EXECUTAR O CODIGO
-============================================================================
 
 Python 3.x
 pip
@@ -21,9 +19,7 @@ Para instalar as dependencias:
 
     pip install requests beautifulsoup4
 
-============================================================================
 COMO USAR
-============================================================================
 
 Execute o script diretamente pelo terminal, dentro da pasta onde o arquivo esta:
 
@@ -39,9 +35,7 @@ para coletar todas as paginas disponiveis:
 
     main(max_pages=None)
 
-============================================================================
 SAIDA
-============================================================================
 
 O script cria uma pasta chamada "files" no mesmo diretorio e salva um arquivo
 JSON nomeado com a data de execucao no seguinte formato:
@@ -49,9 +43,7 @@ JSON nomeado com a data de execucao no seguinte formato:
     files/EV_DD_MES_AAAA.json
 
 
-============================================================================
 ESTRUTURA DOS DADOS
-============================================================================
 
 Cada entrada no JSON representa um sebo e contem os seguintes campos:
 
@@ -64,9 +56,8 @@ Cada entrada no JSON representa um sebo e contem os seguintes campos:
     freeShipping    booleano indicando se o sebo oferece frete gratis
     memberSince     data de cadastro do sebo na plataforma
 
-============================================================================
+
 ESTRUTURA DO CODIGO
-============================================================================
 
 extract_initial_state(html)
     Recebe o HTML de uma pagina e extrai o objeto window.__INITIAL_STATE__
