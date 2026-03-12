@@ -7,6 +7,9 @@ coletados em um arquivo JSON dentro da pasta "files".
 O script extrai os dados diretamente do estado interno da pagina (window.__INITIAL_STATE__),
 evitando a necessidade de parsear HTML complexo.
 
+Para conseguir analisar o HTML das páginas, usei cURL. Ferramenta na qual escrevi a documentação na Wikipédia.
+Link: https://pt.wikipedia.org/wiki/CURL
+
 __NECESSARIO TER PARA EXECUTAR O CODIGO__
 
 Python 3.x
