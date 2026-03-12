@@ -10,9 +10,13 @@ evitando a necessidade de parsear HTML complexo.
 __NECESSARIO TER PARA EXECUTAR O CODIGO__
 
 Python 3.x
+
 pip
+
 requests
+
 beautifulsoup4
+
 os
 
 Para instalar as dependencias:
